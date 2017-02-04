@@ -1,0 +1,8 @@
+set follow-fork-mode child
+catch exec
+run tcp-listen:7741,reuseaddr exec:./lab7A,pty,ctty,raw,echo=0
+display/x $eax
+display/16xw $esp
+display/10i $eip
+#b *print_index+158
+c
