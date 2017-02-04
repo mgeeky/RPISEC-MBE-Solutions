@@ -1,4 +1,4 @@
-This is a repository containing my solutions to the (https://github.com/RPISEC/MBE/)[RPISEC MBE] aka **Modern Binary Exploitation** course.
+This is a repository containing my solutions to the [RPISEC MBE](https://github.com/RPISEC/MBE/) aka **Modern Binary Exploitation** course.
 
 Most of those exploits work correctly, are self-contained and need no fixing or adjusting, couple of them might need so.
 
