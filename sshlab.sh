@@ -65,7 +65,7 @@ PASSES=("gameadmin:gameadmin"
 		"lab8A:Th@t_w@5_my_f@v0r1t3_ch@11"
 		"lab8end:H4x0r5_d0nt_N33d_m3t4pHYS1c5"
 
-        "lab9A:1_th0uGht_th4t_w4rn1ng_wa5_l4m3"
+        	"lab9A:1_th0uGht_th4t_w4rn1ng_wa5_l4m3"
 		"lab9end:1_d1dNt_3v3n_n33d_4_Hilti_DD350"
 )
 
